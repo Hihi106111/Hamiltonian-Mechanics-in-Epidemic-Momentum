@@ -13,3 +13,4 @@ Nakamura, Gilberto M., and Alexandre S. Martinez. 2019. “Hamiltonian Dynamics 
 Carcassi, Gabriele. Understanding Hamiltonian mechanics. https://www.youtube.com/playlist?list=PLmNMSMaNjnDd9Qj4VxNL8dijiWZCAzanl
 
 (something new)
+(something something newer) 
