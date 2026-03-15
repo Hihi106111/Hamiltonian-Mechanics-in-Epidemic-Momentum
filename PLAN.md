@@ -12,6 +12,8 @@ Nakamura, Gilberto M., and Alexandre S. Martinez. 2019. “Hamiltonian Dynamics 
 
 Carcassi, Gabriele. Understanding Hamiltonian mechanics. https://www.youtube.com/playlist?list=PLmNMSMaNjnDd9Qj4VxNL8dijiWZCAzanl
 
+Tatum, Jeremy. Hamiltonian Mechanics. https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Classical_Mechanics_(Tatum)/14%3A_Hamiltonian_Mechanics
+
 (something new)
 (something something newer) 
 
